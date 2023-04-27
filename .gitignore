@@ -1,0 +1,7 @@
+.env
+.downloads
+downloads
+node_modules
+.vscode
+csvs/*
+xlif/*
