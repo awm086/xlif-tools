@@ -5,7 +5,7 @@ import path from 'path';
 
 // Define input and output directories and file paths
 const inputDir = './csvs';
-const outputFile = './merged.csv';
+const outputFile = './csvs/merged.csv';
 
 // Read all CSV files from the input directory
 const csvFiles = fs.readdirSync(inputDir)
